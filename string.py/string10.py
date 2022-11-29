@@ -1,3 +1,4 @@
+#for showing particular name working place.
 while True:
     str1=input('enter your first name: ')
     str2=input('enter your last name: ')
