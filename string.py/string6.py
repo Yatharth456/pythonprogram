@@ -1,0 +1,1 @@
+print('{} and {} is good in English.'.format('ram','shyam'))
